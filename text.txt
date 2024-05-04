@@ -1,0 +1,1 @@
+this is a text to be converted to hex format, then base64 code
