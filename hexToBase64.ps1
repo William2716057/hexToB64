@@ -1,5 +1,5 @@
 # Define the file path
-$file = "C:\Users\wills\Desktop\Shortcuts\Files\github\hexToBase64\text.txt"
+$file = "path\to\file\text.txt"
 # Read the file as bytes
 $fileBytes = Get-Content -Path $file -Encoding Byte
 # Convert the bytes to hexadecimal representation
